@@ -1,11 +1,12 @@
 第一次创建文件
 
 
-master分支修改内容(xin)
 
+master分支修改内容(xin)
+=======
 创建dev分支
 
 master分支修改内容
 
 diercixiugai
-
+>>>>>>> dev
